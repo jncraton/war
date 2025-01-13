@@ -3,6 +3,8 @@ War (card game)
 
 A Python lab to implement a simplified version of [War](https://en.wikipedia.org/wiki/War_(card_game)).
 
+![cards](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AcetoFive.JPG/320px-AcetoFive.JPG)
+
 Learning Outcomes
 -----------------
 
