@@ -23,7 +23,7 @@ We will bend the rules slightly to simplify our script. We will only track the o
 
 Handout code is provided in [war.py](war.py).
 
-Sample output:
+Complete the `create_deck`, `deal`, and `battle` functions as described in their docstrings so that the included assertions pass. Then, complete the program so that it will simulate a game of our version of War between two players. Here's an example output from the completed program:
 
 ```
 Player 1 draws Ace of Clubs
