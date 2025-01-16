@@ -55,3 +55,6 @@ assert battle({"rank": "King"}, {"rank": "Queen"}) == "win"
 assert battle({"rank": "Jack"}, {"rank": "Queen"}) == "loss"
 assert battle({"rank": "Ace"}, {"rank": "Queen"}) == "win"
 assert battle({"rank": "3"}, {"rank": "2"}) == "win"
+
+# Complete the program so that it will simulate a game of our version of War between two players
+# See readme.md for more details
