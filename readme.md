@@ -17,7 +17,7 @@ After completing this lab, students will be able to:
 Task
 ----
 
-Create a basic implementation of the card game known as War. If you have never played, a standard deck of 52 cards is distributed evenly between two players, each player plays the card on the top of their deck. Typically, the game is played with ace high (it is worth the most points). The player with the higher card value wins and takes the losing player's card. If there is a tie, each player will place a predetermined amount of cards face down and then play another card face up.
+Create a basic implementation of the card game known as War. If you have never played, a [standard deck of 52 cards](https://upload.wikimedia.org/wikipedia/commons/0/02/Piatnikcards.jpg) is distributed evenly between two players, each player plays the card on the top of their deck. Typically, the game is played with ace high (it is worth the most points). The player with the higher card value wins and takes the losing player's card. If there is a tie, each player will place a predetermined amount of cards face down and then play another card face up.
 
 We will bend the rules slightly to simplify our script. We will only track the outcome of the card flip between two players for one round of play. Cards will not be reassigned, and a tie will simply be noted (no other cards flipped).
 
