@@ -10,8 +10,8 @@ def create_deck():
     Each list item should be a dictionary of the form:
 
     {
-        rank: "2",
-        suit: "Hearts",
+        "rank": "2",
+        "suit": "Hearts",
     }
     """
 
